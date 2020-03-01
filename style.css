@@ -1,0 +1,205 @@
+body{
+    margin-left: 200px;
+}
+
+.contents{
+    background-color: #3f403b;
+    color: white;
+    height: 909px;
+    
+}
+
+.contents ul li{
+    list-style-type: none;
+}
+
+
+.img img{
+    height: 200px;
+    width: 100%;
+    
+}
+
+.name{
+    margin-top: 60px;
+   margin-left: 28px;
+   font-family: 'Lucida Sans';
+   font-weight: 600;
+}
+
+.position{
+    margin-top: 60px;
+    margin-left: -18px;
+    font-family: 'Lucida Sans';
+    font-weight: 600;
+}
+
+.contact{
+    margin-top: 60px;
+  
+}
+
+.contact h4{
+    margin-left: 40px;
+    font-family: 'Lucida Sans';
+    font-weight: 600;
+
+}
+
+.contact p{
+    margin-top: 20px;
+    margin-right: 18px;
+    font-family: 'Goudy Old Style';
+    font-size: 17px;
+}
+
+.skill h4{
+    font-family: 'Lucida Sans';
+    margin-left: 80px;
+    margin-top: 50px;
+    font-weight: 600;
+
+}
+
+.p1{
+
+    margin-left: 93px;
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+}
+
+.p2{
+    margin-left: 90px;
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+}
+
+.p3{
+    margin-left: 82px;
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+}
+
+.p4{
+    margin-left: 84px;
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+}
+
+.p5{
+    margin-left: 70px;
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+}
+
+
+
+.column2{
+    background-color:#edebf7;
+    height: 909px;
+    
+    
+}
+
+.column2 ul li{
+    list-style-type: none;
+}
+
+.about h4{
+    margin-top: -13px;
+    font-family: 'Lucida Sans';
+    font-weight: 800;
+    margin-left: 180px;
+    
+}
+
+.about p{
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+   
+}
+
+.education h3{
+    margin-top: 30px;
+    margin-left: 165px;
+    
+    font-family: 'Lucida Sans';
+    font-weight: 600;
+}
+
+.education h4{
+    margin-top: 10px;
+    font-family: 'Lucida Sans';
+    margin-left: 40px;
+}
+.education p{
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+   
+}
+
+.th1{
+margin-left: 30px;
+
+}
+
+.th2{
+    margin-left: 90px;
+
+}
+
+.h4{
+    margin-left: 120px;
+}
+
+.p{
+    margin-left: 145px;
+}
+.col2 p{
+    margin-left: 80px;
+}
+
+.personal{
+    margin-top: 60px;
+    
+}
+
+.personal h4{
+    margin-left: 140px;
+    font-family: 'Lucida Sans';
+    font-weight: 600;
+}
+
+.personal p{
+    font-family: 'Goudy Old Style';
+    font-size: 16px;
+    margin-left: 98px;
+}
+
+.hobby h4{
+    margin-left: 140px;
+    font-family: 'Lucida Sans';
+    font-weight: 600;
+    margin-top: 50px;
+}
+.hobby img{
+    height: 60px;
+    width: 70px;
+
+}
+
+.img2{
+    margin-left: 130px;
+    margin-top: -114px;
+}
+
+.img3{
+    margin-left: 260px;
+    margin-top: -114px;
+}
+
+.img4{
+    margin-left: 400px;
+    margin-top: -114px;
+}
+
